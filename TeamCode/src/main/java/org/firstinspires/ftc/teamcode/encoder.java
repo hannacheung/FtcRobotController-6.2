@@ -110,6 +110,7 @@ public class encoder extends LinearOpMode {
         right1.setPower (0);
         left2.setPower (0);
         right2.setPower (0);
+        resetStartTime(); 
 
 
     }
